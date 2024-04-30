@@ -21,7 +21,7 @@ To run the CPU Scheduling Simulator on your local machine:
 2. Open the project in Visual Studio or your preferred IDE.
 3. Build the solution to restore dependencies and compile the code.
 4. Run the application to launch the CPU Scheduling Simulator GUI.
-5. Alternatively, you can download the executable file from the [Download Executable](https://github.com/Osama-Refaat1/CPU-Scheduling-Simulator/raw/main/bin/debug/CPU-Scheduling-Simulator.exe)
+5. Alternatively, you can download the executable file from the [Download Executable](https://github.com/Osama-Refaat1/CPU-Scheduling-Simulator/bin/debug/CPU-Scheduling-Simulator.exe)
  directory.
 
 ## Usage
