@@ -11,13 +11,13 @@ namespace SchedulingSimulator
     {
         DataGridView dataGridView;
 
-        //----------------RoundRobin Class Constructor-------------------
+        
         public RoundRobin(ref DataGridView temp_dataGridView)
         {
             dataGridView = temp_dataGridView;
         }
 
-        //----------------Main Round Robin Algorithm Method-------------------
+        
         public void runRoundRobin(ref NewProcess[] multiNewProcesses, int quantum)
         {
             //Assign Each Process Its Execution Time
@@ -99,7 +99,7 @@ namespace SchedulingSimulator
             }
         }
 
-        //----------------Update Data Grid View Method-------------------------------
+        
         public void updateDataGridView(DataGridView dataGridView, NewProcess[] multiNewProcesses)
         {
             //Remove Current Data Grid Rows and Refresh it
@@ -114,7 +114,7 @@ namespace SchedulingSimulator
             }
         }
 
-        //----------------Process IO Execution Method
+        
         public void ioExecution(NewProcess[] multiNewProcesses, int id, int interupt)
         {
             //Change Process State to Waiting when it goes to IO
@@ -141,7 +141,7 @@ namespace SchedulingSimulator
             updateDataGridView(dataGridView, multiNewProcesses);
         }
 
-        //----------------Process Execution Timer Method
+        
         public void executionTimer(int tempTime)
         {
             int executionTime = tempTime * 1000;
