@@ -1,0 +1,11 @@
+C:\Users\osama\Desktop\CPU-Scheduling-Simulator\CPU-Scheduling-Simulator\bin\Debug\CPU-Scheduling-Simulator.exe.config
+C:\Users\osama\Desktop\CPU-Scheduling-Simulator\CPU-Scheduling-Simulator\bin\Debug\CPU-Scheduling-Simulator.exe
+C:\Users\osama\Desktop\CPU-Scheduling-Simulator\CPU-Scheduling-Simulator\bin\Debug\CPU-Scheduling-Simulator.pdb
+C:\Users\osama\Desktop\CPU-Scheduling-Simulator\CPU-Scheduling-Simulator\obj\Debug\CPU-Scheduling-Simulator.csproj.AssemblyReference.cache
+C:\Users\osama\Desktop\CPU-Scheduling-Simulator\CPU-Scheduling-Simulator\obj\Debug\CPU_Scheduling_Simulator.Properties.Resources.resources
+C:\Users\osama\Desktop\CPU-Scheduling-Simulator\CPU-Scheduling-Simulator\obj\Debug\CPU-Scheduling-Simulator.csproj.GenerateResource.cache
+C:\Users\osama\Desktop\CPU-Scheduling-Simulator\CPU-Scheduling-Simulator\obj\Debug\CPU-Scheduling-Simulator.csproj.CoreCompileInputs.cache
+C:\Users\osama\Desktop\CPU-Scheduling-Simulator\CPU-Scheduling-Simulator\obj\Debug\CPU-Scheduling-Simulator.exe
+C:\Users\osama\Desktop\CPU-Scheduling-Simulator\CPU-Scheduling-Simulator\obj\Debug\CPU-Scheduling-Simulator.pdb
+C:\Users\osama\Desktop\CPU-Scheduling-Simulator\CPU-Scheduling-Simulator\obj\Debug\SchedulingSimulator.Form2.resources
+C:\Users\osama\Desktop\CPU-Scheduling-Simulator\CPU-Scheduling-Simulator\obj\Debug\SchedulingSimulator.Form1.resources
